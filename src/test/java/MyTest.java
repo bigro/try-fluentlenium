@@ -1,11 +1,7 @@
-import org.fluentlenium.adapter.FluentStandalone;
 import org.fluentlenium.adapter.junit.FluentTest;
 import org.junit.Test;
-import org.openqa.selenium.remote.DesiredCapabilities;
 
-import static java.util.concurrent.TimeUnit.SECONDS;
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.fluentlenium.core.filter.FilterConstructor.with;
 
 public class MyTest extends FluentTest {
     @Test
