@@ -9,9 +9,9 @@ dependencies {
     testCompile 'org.fluentlenium:fluentlenium-junit:3.1.1'
     testCompile 'org.fluentlenium:fluentlenium-assertj:3.1.1'
     testCompile 'org.seleniumhq.selenium:htmlunit-driver:2.25'
-    testCompile 'org.eclipse.jetty.websocket:websocket-api:9.3.5.v20151012'
-    testCompile 'org.eclipse.jetty.websocket:websocket-client:9.3.5.v20151012'
-    testCompile 'xml-apis:xml-apis:1.4.01'
+    testCompile 'org.eclipse.jetty.websocket:websocket-api:9.4.2.v20170220'
+    testCompile 'org.eclipse.jetty.websocket:websocket-client:9.4.2.v20170220'
+    testCompile 'xml-apis:xml-apis:2.0.2'
 
     testCompile 'junit:junit:4.12'
 }
